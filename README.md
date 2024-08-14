@@ -4,7 +4,18 @@
 
 ## Project Overview
 
-This interactive dashboard provides comprehensive analytics for hotel performance in Bangalore, focusing on presidential room class. It offers insights into key metrics such as revenue, occupancy rates, and booking trends.
+Managing key hotel metrics like Revenue, Occupancy, ADR , RevPAR etc is critical for success in the hospitality industry.
+
+Here's how this Power BI dashboard helps:
+
+𝐂𝐮𝐬𝐭𝐨𝐦𝐅𝐢𝐥𝐭𝐞𝐫𝐬: Easily sort data by city and room class for targeted insights.
+
+𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐓𝐫𝐚𝐜𝐤𝐢𝐧𝐠: Monitor week-on-week changes in key metrics like Revenue, Occupancy %, and ADR.
+
+𝐂𝐨𝐦𝐩𝐚𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Evaluate weekday vs. weekend performance for better strategic planning.
+
+𝐆𝐫𝐚𝐧𝐮𝐥𝐚𝐫 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬: Analyze property-specific metrics and booking platform efficiency. 
+
 
 ## Features
 
@@ -17,14 +28,14 @@ This interactive dashboard provides comprehensive analytics for hotel performanc
 
 ## Technologies Used
 
-- Python
-- Pandas for data manipulation
-- Plotly or Tableau for visualization (specify which you used)
-- Streamlit or Dash for web app creation (if applicable)
+- Ms Excel
+- MySQL
+- Power BI for visualization
 
 ## Installation
 
-```bash
-git clone https://github.com/yourusername/hotel-analytics-dashboard.git
-cd hotel-analytics-dashboard
+\`\`\`bash
+git clone https://github.com/yourusername/Optimizing-Hotel-Performance-with-Data-Driven-Insights.git
+cd Optimizing-Hotel-Performance-with-Data-Driven-Insights
 pip install -r requirements.txt
+\`\`\`
