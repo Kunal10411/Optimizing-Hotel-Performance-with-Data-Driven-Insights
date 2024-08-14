@@ -1,6 +1,7 @@
 Project Overview
 
 In the competitive hospitality industry, tracking metrics like Revenue, Occupancy, ADR, and RevPAR is crucial for strategic success. This Power BI dashboard is designed to provide actionable insights with ease.
+
 ✨ Key Features
 
     Custom Filters: 🔍 Sort data effortlessly by city and room class.
@@ -23,8 +24,8 @@ In the competitive hospitality industry, tracking metrics like Revenue, Occupanc
     MySQL: For robust data storage and retrieval.
     Power BI: For creating interactive and dynamic visualizations.
     
-    📊 Usage
+📊 Usage
 
     Open the Power BI file to interact with filters and visualizations.
     Utilize the custom filters to explore data by city or room class.
-    Analyze performance metrics and trends through the provided charts and KPIs.
+    Analyze performance metrics and trends through the provided charts and KPIs.   
