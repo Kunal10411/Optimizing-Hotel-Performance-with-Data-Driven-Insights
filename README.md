@@ -22,13 +22,7 @@ In the competitive hospitality industry, tracking metrics like Revenue, Occupanc
 - **Detailed Property Metrics**: In-depth metrics for individual properties.
 - **Booking Platform Analysis**: Evaluate the effectiveness of different booking platforms.
 
-## **📸 Dashboard Preview**
 
-Here’s a glimpse of the **    Optimizing-Hotel-Performance-with-Data-Driven-Insights
-
-** in action:
-
-![Hotel Analytics Dashboard Screenshot(hotel.jpg) <!-- Replace with the link to your dashboard image -->
 
 ## **🛠️ Technologies Used**
 
