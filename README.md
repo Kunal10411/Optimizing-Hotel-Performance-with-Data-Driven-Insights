@@ -34,4 +34,6 @@ In the competitive hospitality industry, tracking metrics like Revenue, Occupanc
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/username/hotel-analytics-dashboard.git
+   git clone https://github.com/Kunal10411/    Optimizing-Hotel-Performance-with-Data-Driven-Insights
+
+.git
