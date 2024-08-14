@@ -1,6 +1,6 @@
 # **Hotel Analytics Dashboard**
 
-![Dashboard Preview](.png) <!-- Replace with the link to your dashboard preview image -->
+![Dashboard Preview](hotel.jpg) <!-- Replace with the link to your dashboard preview image -->
 
 ## **Project Overview**
 
@@ -24,9 +24,11 @@ In the competitive hospitality industry, tracking metrics like Revenue, Occupanc
 
 ## **📸 Dashboard Preview**
 
-Here’s a glimpse of the **** in action:
+Here’s a glimpse of the **    Optimizing-Hotel-Performance-with-Data-Driven-Insights
 
-![Hotel Analytics Dashboard Screenshot]Optimizing-Hotel-Performance-with-Data-Driven-Insights(link_to_dashboard_image.png) <!-- Replace with the link to your dashboard image -->
+** in action:
+
+![Hotel Analytics Dashboard Screenshot(hotel.jpg) <!-- Replace with the link to your dashboard image -->
 
 ## **🛠️ Technologies Used**
 
