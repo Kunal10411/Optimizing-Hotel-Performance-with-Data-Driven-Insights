@@ -1,41 +1,30 @@
-# Hotel Analytics Dashboard
+Project Overview
 
-![Dashboard Preview](link_to_dashboard_image.png)
+In the competitive hospitality industry, tracking metrics like Revenue, Occupancy, ADR, and RevPAR is crucial for strategic success. This Power BI dashboard is designed to provide actionable insights with ease.
+✨ Key Features
 
-## Project Overview
+    Custom Filters: 🔍 Sort data effortlessly by city and room class.
+    Performance Tracking: 📈 Monitor week-on-week changes in key metrics like Revenue, Occupancy %, and ADR.
+    Comparative Analysis: 📊 Compare weekday vs. weekend performance for strategic insights.
+    Granular Insights: 🔬 Delve into property-specific metrics and booking platform efficiency.
 
-Managing key hotel metrics like Revenue, Occupancy, ADR , RevPAR etc is critical for success in the hospitality industry.
+🔧 Dashboard Features
 
-Here's how this Power BI dashboard helps:
+    City and Room Class Filtering: Filter and focus on specific data segments.
+    Key Performance Indicators (KPIs): Prominently display critical KPIs.
+    Occupancy Visualization: Visualize occupancy rates by category.
+    Trend Analysis: Track trends for RevPAR, ADR, and Occupancy over time.
+    Detailed Property Metrics: In-depth metrics for individual properties.
+    Booking Platform Analysis: Evaluate the effectiveness of different booking platforms.
 
-𝐂𝐮𝐬𝐭𝐨𝐦𝐅𝐢𝐥𝐭𝐞𝐫𝐬: Easily sort data by city and room class for targeted insights.
+🛠️ Technologies Used
 
-𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐓𝐫𝐚𝐜𝐤𝐢𝐧𝐠: Monitor week-on-week changes in key metrics like Revenue, Occupancy %, and ADR.
+    Microsoft Excel: For data preparation and initial analysis.
+    MySQL: For robust data storage and retrieval.
+    Power BI: For creating interactive and dynamic visualizations.
+    
+    📊 Usage
 
-𝐂𝐨𝐦𝐩𝐚𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Evaluate weekday vs. weekend performance for better strategic planning.
-
-𝐆𝐫𝐚𝐧𝐮𝐥𝐚𝐫 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬: Analyze property-specific metrics and booking platform efficiency. 
-
-
-## Features
-
-- City and room class filtering
-- Key performance indicators (KPIs) display
-- Occupancy by category visualization
-- Trend analysis for RevPAR, ADR, and Occupancy
-- Detailed property metrics
-- Booking platform analysis
-
-## Technologies Used
-
-- Ms Excel
-- MySQL
-- Power BI for visualization
-
-## Installation
-
-\`\`\`bash
-git clone https://github.com/yourusername/Optimizing-Hotel-Performance-with-Data-Driven-Insights.git
-cd Optimizing-Hotel-Performance-with-Data-Driven-Insights
-pip install -r requirements.txt
-\`\`\`
+    Open the Power BI file to interact with filters and visualizations.
+    Utilize the custom filters to explore data by city or room class.
+    Analyze performance metrics and trends through the provided charts and KPIs.
